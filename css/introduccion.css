@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+    
+    }
+    h1{
+        text-align: center;
+        color: darkgoldenrod;
+    }
+
+    h2 ,h3{
+        text-align: left;
+        color:rgb(0, 0, 0);
+    }
+    
+    img{
+        width: 300px;
+        height: 500px;
+        display: flex;
+        margin: auto;
+    }
+    .centrado{
+        margin: 10%;
+    }
+    
+    .barra{
+        text-align: center;
+        background-color: rgb(42, 93, 154);
+    }
+    a{
+        color: rgb(23, 29, 114);
+    }
+    
+    .inicio{
+        text-align: center;
+        background-color: azure;
+        justify-content: center;
+        align-items: center;
+    }
+    button{
+        border: 10px;
+        padding: 10px 30px ;
+        background-color:azure;
+        text-decoration: none;
+        position: relative;
+        margin: 10px;
+        border-color: #8b2323;
+        border-width: 3px;
+        border-style: solid
+    }
